@@ -41,8 +41,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak" />
 </p>
-
-<h3 align="center">Spotify Playing 🎧:</h3>
-<p align="center">
-  <a href="https://open.spotify.com/user/yourusername"><img src="https://novatorem.vercel.app/api/spotify" alt="Spotify"></a>
-</p>
