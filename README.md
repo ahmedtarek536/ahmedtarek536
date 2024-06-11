@@ -1,6 +1,6 @@
-# Hi 👋, I'm Ahmed Tarek
+<h1 align="center">Hi 👋, I'm Ahmed Tarek</h1>
 
-A CSE Sophomore who loves to explore the world of programming.
+<p align="center">Computer science Junior student looking for a Position as Front end or Make Projects as Frealancer.</p>
 
 - 🔭 I'm currently participating in GSSoC'21
 - 🌱 I'm currently learning React
@@ -8,7 +8,7 @@ A CSE Sophomore who loves to explore the world of programming.
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r7oney@gmail.com)
 
 ## Languages and Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
