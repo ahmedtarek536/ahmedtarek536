@@ -28,3 +28,21 @@
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
 
+<h2 align="center">My GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak" />
+</p>
+
+<h3 align="center">Spotify Playing 🎧:</h3>
+<p align="center">
+  <a href="https://open.spotify.com/user/yourusername"><img src="https://novatorem.vercel.app/api/spotify" alt="Spotify"></a>
+</p>
