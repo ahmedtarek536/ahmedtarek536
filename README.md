@@ -2,7 +2,7 @@
 
 <p align="center">Computer science Junior student looking for a Position as Front end or Make Projects as Frealancer.</p>
 
-- 🔭 I'm currently participating in GSSoC'21
+- 🔭 I'm currently work as Freelancer
 - 🌱 I'm currently learning React
 - ⚡ Fun fact: I listen to music almost 8 hours a day
 
@@ -27,9 +27,4 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
-## My Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saatvik21&show_icons=true&theme=radical)
-
-## Spotify Playing 🎧:
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
 
