@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently work as Freelancer
 - 🌱 I'm currently learning React
-- ⚡ Fun fact: I listen to music almost 8 hours a day
+- ⚡ Fun fact: Rading Books & Make Videos
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
