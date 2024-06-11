@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently work as Freelancer
 - 🌱 I'm currently learning React
-- ⚡ Fun fact: Rading Books & Make Videos
+- ⚡ Fun fact: Reading books & Make videos
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-tarek-45818a2a5/)
