@@ -3,7 +3,7 @@
 <p align="center">Computer science Junior student work as Front end .</p>
 
 - 🔭 I'm currently work as Freelancer
-- 🌱 I'm currently learning React
+- 🌱 I'm currently learning Typescript
 - ⚡ Fun fact: Reading books & Make videos
 
 ## Connect with me:
