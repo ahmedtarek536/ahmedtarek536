@@ -33,11 +33,7 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firestore](https://img.shields.io/badge/firestore-%234BAEED.svg?style=for-the-badge&logo=firestore&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/nosql-%23F7DF1E.svg?style=for-the-badge&logo=nolock&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%235C3EE8.svg?style=for-the-badge&logo=aspdotnet&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%23223C40.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
-### Concepts:
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-%23457FCA.svg?style=for-the-badge&logo=appveyor&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-%2338B2AC.svg?style=for-the-badge&logo=appveyor&logoColor=white)
-![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-%23E34F26.svg?style=for-the-badge&logo=appveyor&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-%23000000.svg?style=for-the-badge&logo=appveyor&logoColor=white)
-![Clean Code](https://img.shields.io/badge/Clean_Code-%23000000.svg?style=for-the-badge&logo=appveyor&logoColor=white)
 
