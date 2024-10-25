@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Tarek</h1>
 
-<p align="center">Computer science Junior student work as Front end .</p>
+<p align="center">Computer science Junior student</p>
 
 - 🔭 I'm currently work as Freelancer
 - 🌱 I'm currently learning Typescript
