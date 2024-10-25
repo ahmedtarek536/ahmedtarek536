@@ -25,5 +25,19 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%2345C51B.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-%23593D88.svg?style=for-the-badge&logo=axios&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firestore](https://img.shields.io/badge/firestore-%234BAEED.svg?style=for-the-badge&logo=firestore&logoColor=white)
+![NoSQL](https://img.shields.io/badge/nosql-%23F7DF1E.svg?style=for-the-badge&logo=nolock&logoColor=white)
 
+### Concepts:
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-%23457FCA.svg?style=for-the-badge&logo=appveyor&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-%2338B2AC.svg?style=for-the-badge&logo=appveyor&logoColor=white)
+![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-%23E34F26.svg?style=for-the-badge&logo=appveyor&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-%23000000.svg?style=for-the-badge&logo=appveyor&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-%23000000.svg?style=for-the-badge&logo=appveyor&logoColor=white)
 
